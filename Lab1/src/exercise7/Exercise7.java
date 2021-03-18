@@ -1,6 +1,6 @@
-package excercise7;
+package exercise7;
 
-public class Excercise7 {
+public class Exercise7 {
 
 		private double marsGravity = 0.38;
 		static private double earthGravity = 1.0;

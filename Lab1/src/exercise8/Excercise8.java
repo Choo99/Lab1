@@ -1,14 +1,14 @@
-package excercise8;
+package exercise8;
 
 import java.util.ArrayList;
 
-import excercise7.Excercise7;
+import exercise7.Exercise7;
 
 public class Excercise8 {
 
 	public static void main(String[] args) {
 		
-		Excercise7 convert = new Excercise7();
+		Exercise7 convert = new Exercise7();
 		ArrayList<Double> weightOnMars = new ArrayList<Double>();
 		
 		for(double weight = 50;weight < 150; weight+=10)
